@@ -4,3 +4,8 @@
 
 layout: home
 ---
+# 欢迎来到我的博客 
+
+![example](_site/assets/images/theme0530.jpeg)
+
+这是一个示例图片。
